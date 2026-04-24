@@ -19,7 +19,7 @@ Instead of re-searching raw documents on every question (like RAG), the LLM **re
 
 ```bash
 git clone https://github.com/hunjaecmu/2604-llm-wiki.git
-cd llm-wiki-karpathy
+cd 2604-llm-wiki
 ```
 
 ### 2. Open the project in Cursor
