@@ -18,7 +18,7 @@ Instead of re-searching raw documents on every question (like RAG), the LLM **re
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/balukosuri/llm-wiki-karpathy.git
+git clone https://github.com/hunjaecmu/2604-llm-wiki.git
 cd llm-wiki-karpathy
 ```
 
